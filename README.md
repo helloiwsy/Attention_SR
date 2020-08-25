@@ -4,7 +4,9 @@
 -----
 ## 0. Please Note This
 This repositorty is a tensorflow implementations the paper.
+
 Since the code is writeen for study,this may include incorrect implementation or error.
+
 If you have any problem or question, Please send me a mail < helloiwsy@gmail.com >
 
 ## 1. Prepare dataset for training
@@ -49,13 +51,10 @@ If you have any problem or question, Please send me a mail < helloiwsy@gmail.com
     - If you need high-frequnecy and low-frequency image,
       remove the comment and scaling the matrix.
 
----
-
 
 # Requirements
 - tensorflow 1.14
 
----
 The code is based on the [code](https://github.com/geonm/EnhanceNet-Tensorflow.git), thanks for the author.
 
     
