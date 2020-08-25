@@ -14,8 +14,8 @@ Tensorflow  Implementation of Astudy on Single Image Super Resolution Using Atte
   4. Save the image, (Original HR, HF_HR, LF_HF, I_LR) as( xxx_HR.mat,xxx_HRHF.mat, xxx_HRLF.mat xxx_LR.mat )
   5. Locate the files like below
 
--train_HF
--001_HR.mat
--001_HRHF.mat
--001_HRLF.mat
+  - train_HF
+    - 001_HR.mat
+    - 001_HRHF.mat
+    - 001_HRLF.mat
 
