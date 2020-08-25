@@ -1,9 +1,11 @@
-Attention 모델을 이용한 단일 영상 초고해상도 복원 기술 in 2020 한국방송미디어공학회 하계학술대회
+# Attention 모델을 이용한 단일 영상 초고해상도 복원 기술
+### in 2020 한국방송미디어공학회 하계학술대회
+ 
 -----
 ## 0. Please Note This
 This repositorty is a tensorflow implementations the paper.
 Since the code is writeen for study,this may include incorrect implementation or error.
-
+If you have any problem or question, Please send me a mail < helloiwsy@gmail.com >
 
 ## 1. Prepare dataset for training
   - This network require (I_LR, HF_HR, LF_HR) unlike existing normal deep learning based super resolution network.
@@ -42,10 +44,13 @@ Since the code is writeen for study,this may include incorrect implementation or
       (I recommend edit the path in code, do not type in teminal)
   
 ## 3. Test 
-  - If you finish training, Oepn test.py and type your test file path
-
+  - If you finish training, Oepn test.py and type model path
+  - Insert your LR input image folder and output path
+    - If you need high-frequnecy and low-frequency image,
+      remove the comment and scaling the matrix.
 
 ---
+
 
 # Requirements
 - tensorflow 1.14
