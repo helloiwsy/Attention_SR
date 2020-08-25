@@ -13,19 +13,8 @@
   3. By applyging [SATV](https://github.com/decpearl/satv), Make LF_HR and HF_HR
   4. Save the image, (Original HR, HF_HR, LF_HF, I_LR) as( xxx_HR.mat,xxx_HRHF.mat, xxx_HRLF.mat xxx_LR.mat )
   5. Locate the files like below
->train_HF
->>001_HR.mat
->>001_HRHF.mat               
->>001_HRLF.mat
->>002_HR.mat
->>002_HRHF.mat               
->>002_HRLF.mat
->>003_HR.mat
->>003_HRHF.mat               
->>003_HRLF.mat
->>...
->train_LR_x2
->>001_LR.mat
->>002_LR.mat
->>003_LR.mat
->>...
+  -train_HF
+    -001_HR.mat
+    -001_HRHF.mat
+    -001_HRLF.mat
+    
