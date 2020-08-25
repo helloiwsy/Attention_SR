@@ -1,8 +1,7 @@
 # Attention 모델을 이용한 단일 영상 초고해상도 복원 기술
 ### in 2020 한국방송미디어공학회 하계학술대회
  
------
-## 0. Please Note This
+## 0. Notice
 This repositorty is a tensorflow implementations the paper.
 
 Since the code is writeen for study,this may include incorrect implementation or error.
